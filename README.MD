@@ -1,4 +1,4 @@
-# Abdoumo Audio Tools
+# ROKY Audio Tools
 
 A collection of Python audio tools by **Abdoumo**.
 
